@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\bin\Debug\net8.0\BooksRoom.exe
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\bin\Debug\net8.0\BooksRoom.deps.json
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\bin\Debug\net8.0\BooksRoom.runtimeconfig.json
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\bin\Debug\net8.0\BooksRoom.dll
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\bin\Debug\net8.0\BooksRoom.pdb
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.dll
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\refint\BooksRoom.dll
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.pdb
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\BooksRoom.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\BooksRoom\BooksRoom\obj\Debug\net8.0\ref\BooksRoom.dll
